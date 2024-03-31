@@ -1,0 +1,30 @@
+#main{
+  width: 100%;
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2febba;
+
+}
+
+#container{
+  width: 30rem;
+  height: 15rem;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+#btn{
+  width: 40%;
+  margin: 5px;
+  font-size: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2febba;
+  color: white;
+  margin-top: 35px;
+  cursor: pointer;
+}
